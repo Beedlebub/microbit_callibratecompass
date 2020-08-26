@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`oi$KcR_%RXd*sw$QZpq" x="0" y="0"><statement name="HANDLER"><block type="input_compass_calibrate" id="e(@LQ6)405tU9~3dLh7/"/></statement></block><block type="device_forever" id="a)|L~)EABzsrMc`x3ulT" x="382" y="39"/></xml>
